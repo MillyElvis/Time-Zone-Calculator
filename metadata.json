@@ -1,0 +1,5 @@
+{
+  "name": "International Time Planner",
+  "description": "An elegant international clock to view current times across the globe and a time travel slider to effortlessly plan future meetings across different timezones.",
+  "requestFramePermissions": []
+}
